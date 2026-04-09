@@ -1,6 +1,0 @@
-[
-    {"name": "KFC", "location": "aaa-aaa", "menu": ["fried_chicken", "hot_chicken", "hamburger"]},
-    {"name": "KoreanFood", "location": "bbb-bbb", "menu": ["bibimbab", "koreanPizza", "bulgogi"]},
-    {"name": "ItalianFood", "location": "ccc-ccc", "menu": ["pizza", "pasta", "risotto"]},
-    {"name": "JapanFood", "location": "ddd-ddd", "menu": ["susi", "ramen", "chobab"]}
-]
